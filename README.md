@@ -1,7 +1,7 @@
 # beesandkneez.github.io
 <html>
 <head>
-	<title>Sprout</title>
+	Sprout
 	<link rel="stylesheet" type="text/css" href="main.css"/>
 </head>
 <body>
